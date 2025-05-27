@@ -114,5 +114,3 @@ This project demonstrates the power of AI in solving real-world operational chal
 
 ---
 
-## 📂 Project Structure (Example)
-
